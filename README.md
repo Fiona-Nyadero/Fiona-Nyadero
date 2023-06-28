@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fiona-Nyadero
 - 👀 I’m interested in Architecture/Built environment 
 - 🌱 I’m currently learning Software Engineering at ALX-Africa
-- 💞️ I’m looking to collaborate on Tech projects focusing on the built environment 
+- 💞️ I’m looking to collaborate on Tech projects solving problems in the built environment 
 - 📪 Reach me at fionaochola@gmail.com
 
 <!---
